@@ -1,0 +1,9 @@
+{
+  "name": "TweeCircles",
+  "version": "0.0.1",
+  "dependencies":
+    { "jquery": "~1.10.x",
+      "angular": "1.0.x",
+      //"html5-boilerplate": "4.x"
+    }
+}
